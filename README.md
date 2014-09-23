@@ -17,6 +17,5 @@
          under the License.
 -->
 
-# org.apache.cordova.file-transfer
-
-Plugin documentation: [doc/index.md](doc/index.md)
+# Download modifyed file-transfer plugin
+cordova plugin add https://github.com/shashikantkumar88/xpointers-android-cordova-plugin-file-transfer.git
